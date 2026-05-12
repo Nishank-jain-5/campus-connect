@@ -1,0 +1,17 @@
+# Campus Connect — .gitignore
+
+# If you ever create a local dev file with real keys, keep it out of Git
+config.local.js
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node (if ever used)
+node_modules/
+npm-debug.log*
